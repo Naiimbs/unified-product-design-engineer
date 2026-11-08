@@ -1,12 +1,12 @@
 {
   "name": "unified-product-design-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "platform": "multi",
   "scope": "full",
   "execution": "adaptive",
   "contents": {
     "master_skill": 1,
-    "references": 15,
+    "references": 16,
     "workflows": 9,
     "templates": 10
   },
