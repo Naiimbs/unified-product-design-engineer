@@ -1,0 +1,2 @@
+# Design-to-code
+Inspect repository, framework, routes, styling, tokens, component library, accessibility conventions and test scripts. Map design tokens to existing variables and repeated UI to reusable components. Preserve semantic HTML and accessible interactions; use responsive constraints. Compare implementation at relevant viewports/states. Run available lint, type, unit, integration and E2E checks. Report exact commands/results; do not claim pixel-perfect without evidence.

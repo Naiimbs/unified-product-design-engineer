@@ -1,0 +1,2 @@
+# Visual design
+Evaluate hierarchy, typography, spacing, alignment, density, contrast, semantic color, affordances, component consistency, states, feedback, brand fidelity, content and responsive behavior. Inspect existing tokens first. Establish hierarchy before decoration; test realistic content, long labels and edge states. Novelty is not quality. Use visual trends only when they improve clarity and fit.

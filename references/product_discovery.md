@@ -1,0 +1,2 @@
+# Product discovery
+Frame the decision, audience, user jobs, context, business outcomes and constraints. Separate facts, assumptions and unknowns. Review research, analytics and support evidence; select proportionate interviews, contextual inquiry, surveys or behavioral analysis. Synthesize needs, workarounds and opportunity areas. Prioritize by user impact, strategic fit, confidence and effort. Define hypotheses and measures. Never fabricate quotes or metrics.

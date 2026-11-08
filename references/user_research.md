@@ -1,0 +1,2 @@
+# User research
+Choose interviews for motivations, contextual inquiry for real behavior, surveys for defined questions, diary studies for longitudinal patterns, analytics for behavior, support review for recurring friction, and usability tests for task breakdowns. Define questions, recruit relevant participants, obtain consent, protect data and avoid leading prompts. Separate quotes from interpretation. Triangulate evidence; never invent sample sizes, quotes or statistical certainty.

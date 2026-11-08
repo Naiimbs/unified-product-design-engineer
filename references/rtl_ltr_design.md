@@ -1,0 +1,2 @@
+# RTL and LTR
+RTL is structural, not just text alignment. Prefer logical properties and direction-aware layouts. Mirror directional icons only; universal icons remain unchanged. Review navigation, breadcrumbs, forms, tables, pagination, mixed Arabic/Latin strings, URLs, numbers, dates, punctuation, charts and focus order. Test real localized content and bidirectional isolation for embedded LTR fragments.

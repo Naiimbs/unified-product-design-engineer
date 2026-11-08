@@ -1,0 +1,2 @@
+# Design systems
+Layers: foundations, semantic tokens, components, patterns and usage guidance. Specify component purpose, anatomy, variants, properties, states, interactions, responsive behavior, accessibility, content rules and examples. Define ownership, contribution, review, versioning, deprecation and migration. Extend existing patterns before duplicating. Recheck contrast and focus when tokens change.

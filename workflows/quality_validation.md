@@ -1,0 +1,2 @@
+# Workflow: quality validation
+1. Gather acceptance criteria and resolved defects. 2. Define environments, viewports and test data. 3. Validate visual, functional, responsive and accessibility aspects. 4. Run automated tests and record exact outcomes. 5. Retest fixes and regressions. 6. Classify pass/fail/blocked/not tested. 7. Report residual risks and release recommendation. Never mark untested criteria passed.

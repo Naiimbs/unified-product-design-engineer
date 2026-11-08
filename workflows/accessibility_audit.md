@@ -1,0 +1,2 @@
+# Workflow: accessibility audit
+1. Define scope, standard and environment. 2. Inspect semantics, keyboard and focus. 3. Check names, labels, instructions and errors. 4. Evaluate contrast, reflow, target size and motion. 5. Run automated checks and record tools. 6. Test assistive technology where possible. 7. Map only verified findings to criteria. 8. Report passed/failed/untested separately. Automated scans do not prove conformance.

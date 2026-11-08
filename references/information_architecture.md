@@ -1,0 +1,2 @@
+# Information architecture
+Inventory content, capabilities, roles and permissions. Group by user mental models and task relationships. Validate labels with card sorting/tree testing when feasible. Define hierarchy, taxonomy, navigation, metadata and search. Map critical tasks to paths. Use clear labels, preserve orientation, avoid unnecessary depth, and design search empty/loading/no-result/error states. Deliver inventory, sitemap and navigation model.

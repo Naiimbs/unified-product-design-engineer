@@ -1,0 +1,2 @@
+# Accessibility — WCAG 2.2
+Use WCAG 2.2 AA as a reference target where appropriate. Check text alternatives, structure, contrast, resize/reflow, keyboard access, visible/unobscured focus, target size, motion, labels, instructions, validation, errors, semantic names/roles/values and assistive-technology behavior. Automated checks identify only a subset. Record scope, tools, manual checks and untested criteria. Never claim full conformance from screenshots or automated scans alone.

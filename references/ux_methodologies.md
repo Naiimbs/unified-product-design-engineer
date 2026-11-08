@@ -1,0 +1,2 @@
+# UX methodologies
+**Design Thinking:** empathize, define, ideate, prototype, test for ambiguous human-centered problems. **Double Diamond:** Discover, Define, Develop, Deliver to separate problem and solution spaces. **Lean UX:** state assumptions, build the smallest testable artifact, check learning and iterate. **JTBD:** understand progress sought in context. **Service design:** map frontstage, backstage, handoffs and channels. Choose methods by uncertainty, risk and timeline; avoid ceremony.

@@ -1,0 +1,2 @@
+# Design QA
+Inputs: approved design, supported browsers/devices, test data, constraints and acceptance criteria. Check layout, typography, tokens, assets, component states, responsive breakpoints, keyboard/focus, labels, contrast, loading/empty/error/success/disabled states, localization, console/network errors where available and adjacent regressions. Report environment, steps, expected/actual behavior, evidence and severity. Retest fixes; classify pass/fail/not tested.

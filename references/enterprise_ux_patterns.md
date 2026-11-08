@@ -1,0 +1,2 @@
+# Enterprise UX patterns
+Tables need sorting, filtering, pagination, selection, bulk actions, density and empty/error states. Dashboards need role-relevant summaries, time ranges, drill-down and freshness. Complex forms need grouping, validation, save state and recovery. Admin portals need permission-aware navigation and safe destructive confirmations. Workflow tools need status, ownership, history and exception handling. Test long names, large numbers, missing data and permission scenarios.

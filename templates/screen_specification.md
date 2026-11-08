@@ -1,0 +1,13 @@
+# Screen specification
+- Screen / purpose / role:
+- Entry condition / primary task:
+- Content hierarchy:
+- Primary / secondary actions:
+- Components / data:
+- Loading / empty / error / success:
+- Validation:
+- Responsive behavior:
+- Keyboard/focus / accessible names:
+- RTL/localization:
+- Analytics:
+- Acceptance criteria:

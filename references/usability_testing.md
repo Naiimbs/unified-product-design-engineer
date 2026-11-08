@@ -1,0 +1,2 @@
+# Usability testing
+Define decision, target users, critical tasks, environment, method, success signals and consent. Use neutral realistic scenarios without revealing the path. Observe completion, errors, hesitation, detours, assistance and confidence. Separate behavior from interpretation. Prioritize by impact, sample frequency, task criticality and confidence. Small qualitative samples do not establish population prevalence. Report method, sample, findings and limitations accurately.

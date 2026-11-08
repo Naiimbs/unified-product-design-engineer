@@ -1,0 +1,15 @@
+# Project brief
+- Product:
+- Owner:
+- Target users:
+- Problem/job:
+- Desired outcomes:
+- Success measures:
+- Scope / out of scope:
+- Platforms:
+- Constraints:
+- Evidence:
+- Assumptions / unknowns:
+- Risks:
+- Decisions:
+- Next validation:

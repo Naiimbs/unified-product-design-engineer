@@ -1,22 +1,14 @@
 {
   "name": "unified-product-design-engineer",
   "version": "1.0.0",
-  "title": "Unified Senior Product Design & UX Quality Engineering Skill",
+  "platform": "multi",
   "scope": "full",
-  "platforms": [
-    "Manus",
-    "Claude",
-    "Claude Code",
-    "Antigravity",
-    "other compatible agent platforms"
-  ],
   "execution": "adaptive",
-  "files": {
+  "contents": {
     "master_skill": 1,
     "references": 15,
     "workflows": 9,
     "templates": 10
   },
-  "format": "Markdown",
-  "archive": "unified-product-design-engineer-v1.0.0.zip"
+  "license": "No license granted; all rights reserved unless a license is added."
 }

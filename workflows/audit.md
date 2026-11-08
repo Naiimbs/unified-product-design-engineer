@@ -1,0 +1,2 @@
+# Workflow: audit
+1. Confirm URL, scope, access and read-only boundary. 2. Inspect authorized target. 3. Map relevant screens and reversible flows. 4. Record actual tested viewports. 5. Evaluate requested UI/UX/responsive/accessibility scope. 6. Capture/redact evidence. 7. Write reproducible findings with impact, severity, confidence and fixes. 8. Include strengths and limitations. Never submit, publish or alter data.

@@ -1,0 +1,2 @@
+# Audit evidence and severity
+Record ID, screen/flow, environment, actual viewport, reproduction steps, observed/expected behavior, evidence, user impact, severity, confidence and recommendation. P0 critical: severe harm/core task blocked. P1 high: major task failure/broad impact. P2 medium: meaningful friction with workaround. P3 low: minor polish. Confidence: high reproducible; medium impact/cause uncertain; low hypothesis. Never invent evidence, root causes or tested viewports.

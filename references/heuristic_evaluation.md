@@ -1,0 +1,2 @@
+# Heuristic evaluation
+Use as diagnostic prompts: system status; match to real world; user control; consistency; error prevention; recognition over recall; flexibility; minimalist design; error recovery; help/documentation. For each finding record screen, trigger, observation, user impact, severity, confidence and recommendation. Include strengths to preserve. Heuristics are not a mechanical quality score.
