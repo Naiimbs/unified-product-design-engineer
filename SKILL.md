@@ -266,6 +266,44 @@ For substantial redesigns, include a compact mapping table:
 
 If only a screenshot is available, state that asset provenance and component binding are inferred visually, not confirmed from source code.
 
+
+
+## Visual context and asset preservation
+
+When redesigning an existing screen, component, or flow, preserve the semantic and visual relationship between the UI and its existing images, icons, illustrations, logos, avatars, thumbnails, and other assets. Treat this as a required redesign check, not optional polish.
+
+### Inspect before replacing
+1. Inspect the target screen at the actual available viewport using an authorized browser or supplied screenshots.
+2. Identify component boundaries and the specific UI element that owns each visual asset.
+3. Trace asset provenance where possible: component props, design-system references, asset manifest, CMS/media library, source paths, or existing network-loaded resources. Do not guess filenames or claim source inspection if only a screenshot is available.
+4. Record each asset's meaning, role, crop/aspect ratio, size, color treatment, state, and relationship to its component.
+5. Classify each asset as **preserve**, **adapt**, **replace**, **remove**, or **unknown**. Prefer preserve when the asset remains semantically correct and brand-consistent.
+
+### Keep the asset attached to the same component
+- If a notification, alert, card, empty state, product tile, or other component is redesigned, retain its relevant image/icon in that same component and preserve its semantic association.
+- Do not move an asset to a neighboring component, reuse an unrelated image, or swap assets between repeated instances merely to balance the composition.
+- Preserve component asset mapping across variants and states (default, hover, focus, selected, loading, success, warning, error, disabled, and responsive) where those states exist.
+- If a component is reused in multiple places, verify whether the asset is instance-specific or shared before changing it. Do not globally replace a shared asset when only one instance needs a change.
+- Preserve alt text, accessible names, decorative treatment, focal point, object-fit/crop behavior, and localization context as appropriate.
+
+### When replacement or new imagery is appropriate
+Replace or create an asset only when the current one is missing, misleading, low quality, inaccessible, inconsistent with an approved direction, or no longer communicates the intended meaning. Match product visual language, context, tone, contrast, and intended component dimensions. Prefer approved brand assets and icon libraries. Never invent brand logos or use arbitrary stock imagery as a substitute for product-specific visuals.
+
+### Image and icon discovery
+Inspect the current application, repository, design files, asset library, and available icon set first. Search for suitable assets only when necessary. Use image-generation tools only when the user requests creation or the design task clearly authorizes a new visual asset. Generated assets must not silently replace real product screenshots, customer content, logos, or functional UI icons.
+
+### Verification after redesign
+Compare before/after at component level. Verify that the correct asset remains in the correct component, its meaning is intact, the crop and scale are intentional, and all relevant component states/responsive layouts remain coherent. Report any asset whose provenance or mapping could not be verified. Do not claim asset fidelity based on visual similarity alone.
+
+### Asset mapping record
+For substantial redesigns, include a compact mapping table:
+
+| Component / instance | Existing asset | Decision | New asset / treatment | Verification |
+|---|---|---|---|---|
+| Notification / instance ID | Asset path or screenshot description | Preserve / Adapt / Replace / Remove / Unknown | Path, icon name, or treatment | Verified / Not verified |
+
+If only a screenshot is available, state that asset provenance and component binding are inferred visually, not confirmed from source code.
+
 ## Reference and workflow index
 
 Load only the supporting files relevant to the current task:
@@ -275,6 +313,7 @@ Load only the supporting files relevant to the current task:
 - `references/information_architecture.md`
 - `references/user_research.md`
 - `references/visual_design.md`
+- `references/visual_asset_preservation.md`
 - `references/visual_asset_preservation.md`
 - `references/design_systems.md`
 - `references/enterprise_ux_patterns.md`
