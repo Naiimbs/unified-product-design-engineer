@@ -1,16 +1,23 @@
 # Unified Product Design & UX Engineering
 
-A portable, tool-agnostic skill for product discovery, UX/UI design, design systems, design engineering, application auditing, accessibility, responsive evaluation, and quality validation.
+A multi-platform, adaptive skill combining senior product design, UX/UI practice, design engineering, application auditing, accessibility evaluation, responsive review and quality validation.
 
-## Package
+## Package contents
+- `SKILL.md` — master operating instructions
+- `references/` — 15 practical reference guides
+- `workflows/` — 9 repeatable execution workflows
+- `templates/` — 10 reusable working templates
+- `package-manifest.json` — package metadata
+- `INSTALLATION.md` and `CHANGELOG.md`
 
-Download the complete **v1.0.0** package from the repository release assets or from `releases/` in this repository.
+## Install
+Keep `SKILL.md` and the three resource directories together. Copy the folder into the skills location supported by your agent, then invoke it using that platform's skill mechanism. Adapt metadata/frontmatter only if the platform requires a different convention.
 
-The package includes the master `SKILL.md`, 15 reference guides, 9 workflows, and 10 reusable templates.
+## Use
+Ask naturally: “Audit this portal”, “Design the core user flow”, “Review this design system”, or “Implement this approved screen and run the tests”. The skill selects an adaptive workflow based on the request and available tools.
+
+## Safety and integrity
+Audits are read-only. Changes to existing assets require clear authorization. Publishing and destructive actions require explicit approval. Findings and test claims must be evidence-based.
 
 ## Version
-
-- Version: 1.0.0
-- Scope: Full product design + UX engineering + quality audit
-- Platform: Multi-platform / tool-agnostic
-- Execution: Adaptive
+**v1.0.0** — full initial package. See `package-manifest.json` for package metadata.
