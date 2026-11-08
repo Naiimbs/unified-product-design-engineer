@@ -1,14 +1,20 @@
 {
   "name": "unified-product-design-engineer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "platform": "multi",
   "scope": "full",
   "execution": "adaptive",
   "contents": {
     "master_skill": 1,
-    "references": 16,
-    "workflows": 9,
-    "templates": 10
+    "references": 18,
+    "workflows": 10,
+    "templates": 11
   },
+  "features": [
+    "visual_intelligence",
+    "visual_asset_preservation",
+    "validation_lab",
+    "evidence_based_scoring"
+  ],
   "license": "No license granted; all rights reserved unless a license is added."
 }
